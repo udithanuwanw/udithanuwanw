@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithanuwanw&label=Profile%20views&color=0e75b6&style=flat" alt="udithanuwanw" /> </p>
 
 
-- 🌱 I’m currently learning **springboot and kotlin**
+- 🌱 I’m currently learning **cloud concepts and DevOps**
 
 - 👨‍💻 All of my projects are available at [smartpythonguy.com](https://smartpythonguy.com)
 
