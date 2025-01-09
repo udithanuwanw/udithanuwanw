@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Uditha Nuwan</h1>
 <h3 align="center">Automation Dev.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithanuwanw&label=Profile%20views&color=0e75b6&style=flat" alt="udithanuwanw" /> </p>
 
 
