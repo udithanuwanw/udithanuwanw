@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **cloud concepts and DevOps**
 
-- 👨‍💻 All of my projects are available at [smartpythonguy.com](https://smartpythonguy.com)
+- 👨‍💻 All of my projects are available at [smartpythonguy.com](https://smartpythonguy.online)
 
 - 💬 Ask me about **Chrome extension development,Web scraping and Web automation**
 
