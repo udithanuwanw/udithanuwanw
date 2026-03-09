@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithanuwanw&label=Profile%20views&color=0e75b6&style=flat" alt="udithanuwanw" /> </p>
 
 
-- 🌱 I’m currently learning **cloud concepts and DevOps**
+- 🌱 I’m currently learning  **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [smartpythonguy.online](https://smartpythonguy.online)
 
